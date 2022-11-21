@@ -1,4 +1,5 @@
-![alt text](https://norasmadi.unimap.edu.my/images/banner.png)
+<img src="https://norasmadi.unimap.edu.my/images/banner.png" alt="Alt text" title="Optional title">
+
 
 # FKTE-Cytron
 Embedded System and Interfacing
