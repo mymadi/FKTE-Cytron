@@ -8,3 +8,9 @@ Embedded System and Interfacing
 1. Blink (Built-in LED)
 2. Blink (GP0)
 3. ...
+
+## Advanced Kits
+1. Line Following Robot
+2. Obstacle Avoidance Robot
+3. Blynk
+4. ...
