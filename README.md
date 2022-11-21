@@ -1,4 +1,4 @@
-<img src="https://norasmadi.unimap.edu.my/images/banner.png" alt="Alt text" title="Optional title">
+<img src="https://norasmadi.unimap.edu.my/images/banner.png" width="500" height="600" alt="FKTE-Cytron" title="Pi Pico W + CircuitPython">
 
 
 # FKTE-Cytron
