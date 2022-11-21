@@ -7,7 +7,7 @@ Embedded System and Interfacing
 ## Basic Kits
 1. Blink (Built-in LED)
 2. Blink (GP0)
-3. ...
+3. Running and Blink LEDs
 
 ## Advanced Kits
 1. Line Following Robot
