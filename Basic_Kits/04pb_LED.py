@@ -1,6 +1,6 @@
 """
 Example for Pi Pico W. Blink An External LED (GP0)
-Push the Button at pin GP20 (Active LOW)
+Push the Button at pin GP20 (Active LOW).
 """
 
 import time
