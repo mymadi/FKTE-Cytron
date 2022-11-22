@@ -7,7 +7,7 @@ Embedded System and Interfacing
 ## Basic Kits
 1. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/01blink.py/" target="_blank">Blink (Built-in LED)</a>
 2. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/02blink_GP0.py/" target="_blank">Blink (GP0)</a>
-3. Running and Blink LEDs
+3. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/03running_LED.py/" target="_blank">Running and Blink LEDs</a>
 
 ## Advanced Kits
 1. Line Following Robot
