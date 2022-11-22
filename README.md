@@ -23,4 +23,4 @@ Embedded System and Interfacing
 
 
 
-<p><center><a href="https://info.flagcounter.com/Pyxq"><img src="https://s01.flagcounter.com/count2/Pyxq/bg_333333/txt_FFFFFF/border_333333/columns_3/maxflags_9/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a></center></p>
+<p><centre><a href="https://info.flagcounter.com/Pyxq"><img src="https://s01.flagcounter.com/count2/Pyxq/bg_333333/txt_FFFFFF/border_333333/columns_3/maxflags_9/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a></centre></p>
