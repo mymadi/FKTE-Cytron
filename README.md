@@ -5,7 +5,7 @@
 Embedded System and Interfacing
 
 ## Basic Kits
-1. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/01blink.py">Blink (Built-in LED)</a>
+1. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/01blink.py" target="_blank">Blink (Built-in LED)</a>
 2. Blink (GP0)
 3. Running and Blink LEDs
 
