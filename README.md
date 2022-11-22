@@ -1,6 +1,7 @@
 <center><img src="https://norasmadi.unimap.edu.my/images/banner.png" width="605" height="249" alt="FKTE-Cytron" title="Pi Pico W + CircuitPython"></center>
 
-
+<marquee> Welcome to my Github!</marquee>
+<br>
 # FKTE-Cytron
 Embedded System and Interfacing
 
