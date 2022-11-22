@@ -11,7 +11,6 @@ Embedded System and Interfacing
 4. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/04pb_LED.py/" target="_blank">Active Low Push Button (GP20)</a>
 5. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/05%20Serial%20LCD/" target="_blank">I2C LCD with A Library</a>
 
-https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/05%20Serial%20LCD
 ## Advanced Kits
 1. Line Following Robot
 2. Obstacle Avoidance Robot
