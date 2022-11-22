@@ -1,12 +1,11 @@
 <center><img src="https://norasmadi.unimap.edu.my/images/banner.png" width="605" height="249" alt="FKTE-Cytron" title="Pi Pico W + CircuitPython"></center>
 
-<blink> Welcome to my Github!</blink>
-<br>
+
 # FKTE-Cytron
 Embedded System and Interfacing
 
 ## Basic Kits
-1. Blink (Built-in LED)
+1. <a href="[url](https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/01blink.py)">Blink (Built-in LED)</a>
 2. Blink (GP0)
 3. Running and Blink LEDs
 
