@@ -12,4 +12,4 @@ while True:
     data = microcontroller.cpu.temperature
     data = "{:.2f}".format(data)
     print("Temperature: ", data, "celcius")
-    time.sleep(1)
+    time.sleep(2)
