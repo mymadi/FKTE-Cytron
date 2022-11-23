@@ -3,6 +3,7 @@ This basic kit is design for embedded system and interfacing using Raspberry Pi 
 
 <img src= "https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/images/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="101" height="101" alt="Raspberry Pi Logo">
 <img src= "https://norasmadi.unimap.edu.my/images/pipico.png">
+<br>
 ## Component
 1. Pi Pico W Microcobtroller: 1 Unit
 2. Resistor: 330ohm (8 unit)
