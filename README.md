@@ -5,10 +5,10 @@
 Embedded System and Interfacing
 
 ## Basic Kits
-1. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/01blink.py/" target="_blank">Blink (Built-in LED)</a>
-2. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/02blink_GP0.py/" target="_blank">Blink (GP0)</a>
-3. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/03running_LED.py/" target="_blank">Running and Blink LEDs</a>
-4. <a href="https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/04pb_LED.py/" target="_blank">Active Low Push Button (GP20)</a>
+1. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/01%20Blink%20built-in%20LED" target="_blank">Blink (Built-in LED)</a>
+2. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/02%20Blink%20LED%20GP0" target="_blank">Blink (GP0)</a>
+3. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/03%20Running%20and%20Blink%20LEDs" target="_blank">Running and Blink LEDs</a>
+4. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/04%20Active%20Low%20Push%20Button" target="_blank">Active Low Push Button (GP20)</a>
 5. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/05%20Serial%20LCD/" target="_blank">I2C LCD with A Library</a>
 
 ## Advanced Kits
