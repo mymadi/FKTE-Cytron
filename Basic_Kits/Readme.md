@@ -5,7 +5,7 @@ This basic kit is design for embedded system and interfacing using Raspberry Pi 
 <img src= "https://norasmadi.unimap.edu.my/images/pipico.png" width="250" height="35">
 <br>
 
-## What's Inside the Kits?
+## What's Inside the <font color="red">Basic</font> Kits?
 1. Pi Pico W Microcontroller: 1 Unit
 2. USB Micro B Cable: 1 unit
 3. Resistor: 330ohm (9 units)
