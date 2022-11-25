@@ -1,4 +1,4 @@
-<center><img src="https://github.com/mymadi/FKTE-Cytron/blob/main/images/Programming%20Raspberry%20Pi%20Pico%20W.png" width="605" height="341" alt="FKTE-Cytron" title="Pi Pico W + CircuitPython"></center>
+<center><img src="https://github.com/mymadi/FKTE-Cytron/blob/main/images/Programming%20Raspberry%20Pi%20Pico%20W.png" alt="FKTE-Cytron" title="Pi Pico W + CircuitPython"></center>
 
 
 # FKTE-Cytron
