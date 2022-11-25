@@ -5,7 +5,7 @@
 Embedded System and Interfacing
 
 ## Attention!
-Required Library from Here >> (https://circuitpython.org/libraries)
+Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpython.org/libraries)
 
 ## Basic Kits
 1. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/01%20Blink%20built-in%20LED" target="_blank">Blink (Built-in LED)</a>
