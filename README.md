@@ -19,7 +19,8 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 9. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/09%20DHT22%20Sensor%20and%20Serial%20LCD" target="_blank">DHT22 Sensor and Serial LCD</a>
 
 ## Projects (Coming Soon!)
-1. 
+1. Simple Traffic Light
+2. ...
 
 ## Advanced Kits (Coming Soon!)
 1. Line Following Robot
