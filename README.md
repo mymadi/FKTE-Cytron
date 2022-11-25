@@ -4,6 +4,9 @@
 # FKTE-Cytron
 Embedded System and Interfacing
 
+## Attention!
+Required Library from Here >> (https://circuitpython.org/libraries)
+
 ## Basic Kits
 1. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/01%20Blink%20built-in%20LED" target="_blank">Blink (Built-in LED)</a>
 2. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/02%20Blink%20LED%20GP0" target="_blank">Blink (GP0)</a>
