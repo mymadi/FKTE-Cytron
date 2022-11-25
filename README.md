@@ -18,7 +18,10 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 8. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/08%20DHT22%20Sensor" target="_blank">DHT22 Sensor</a>
 9. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/09%20DHT22%20Sensor%20and%20Serial%20LCD" target="_blank">DHT22 Sensor and Serial LCD</a>
 
-## Advanced Kits
+## Projects (Coming Soon!)
+1. 
+
+## Advanced Kits (Coming Soon!)
 1. Line Following Robot
 2. Obstacle Avoidance Robot
 3. Blynk
