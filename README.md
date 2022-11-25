@@ -12,8 +12,8 @@ Embedded System and Interfacing
 5. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/05%20Serial%20LCD/" target="_blank">I2C LCD with A Library</a>
 6. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/06%20Internal%20Temperature%20Sensor" target="_blank">Internal Temperature Sensor</a>
 7. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/07%20Internal%20Temperature%20Sensor%20and%20Serial%20LCD" target="_blank">Internal Temperature Sensor + Serial LCD</a>
-8. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/08%20DHT22%20Sensor">DHT22 Sensor</a>
-<br>
+8. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/08%20DHT22%20Sensor" target="_blank">DHT22 Sensor</a>
+9. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/09%20DHT22%20Sensor%20and%20Serial%20LCD" target="_blank">DHT22 Sensor and Serial LCD</a>
 
 ## Advanced Kits
 1. Line Following Robot
