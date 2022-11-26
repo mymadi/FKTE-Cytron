@@ -1,7 +1,7 @@
 '''
 DHT22 Sensor: Temperature and Humidity
 Additional Library:
- - adafruit_dht
+ - adafruit_dht.mpy
  '''
 
 import time
