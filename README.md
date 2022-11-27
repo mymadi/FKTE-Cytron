@@ -17,8 +17,8 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 7. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/07%20Internal%20Temperature%20Sensor%20and%20Serial%20LCD" target="_blank">Internal Temperature Sensor + Serial LCD</a>
 8. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/08%20DHT22%20Sensor" target="_blank">DHT22 Sensor</a>
 9. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/09%20DHT22%20Sensor%20and%20Serial%20LCD" target="_blank">DHT22 Sensor and Serial LCD</a>
-10.<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/10%20Light%20Dependent%20Resistor%20(LDR)" target="_blank">Light Dependent Resistor (LDR)</a>
-11.<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/11%20Microwave%20Radar" target="_blank">Microwave Radar Sensor (RCWL-0516)</a>
+10. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/10%20Light%20Dependent%20Resistor%20(LDR)" target="_blank">Light Dependent Resistor (LDR)</a>
+11. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/11%20Microwave%20Radar" target="_blank">Microwave Radar Sensor (RCWL-0516)</a>
 
 ## Projects
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/01P%20Simple%20Home%20Environment%20Monitoring%20System" target="_blank"> Simple Home Environment Monitoring Systems</a>
