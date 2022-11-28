@@ -25,7 +25,9 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 15. Low Cost PIR Sensor Module (HC-SR501)
 16. IR Line Tracking Module
 17. Bluetooth Module (HC-05)
-18. ...
+18. Basic WiFi Connect
+19. Telegram Bot: Turn ON LED, Read the Sensor
+20. ...
 ## Projects
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/01P%20Simple%20Home%20Environment%20Monitoring%20System" target="_blank"> Simple Home Environment Monitoring Systems</a>
 2. ...
