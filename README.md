@@ -24,7 +24,8 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 14. 3V-5.5V SR04P Ultrasonic Ranging Module
 15. Low Cost PIR Sensor Module (HC-SR501)
 16. IR Line Tracking Module
-17. 
+17. Bluetooth Module (HC-05)
+18. ...
 ## Projects
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/01P%20Simple%20Home%20Environment%20Monitoring%20System" target="_blank"> Simple Home Environment Monitoring Systems</a>
 2. ...
