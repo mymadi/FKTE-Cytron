@@ -19,6 +19,8 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 9. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/09%20DHT22%20Sensor%20and%20Serial%20LCD" target="_blank">DHT22 Sensor and Serial LCD</a>
 10. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/10%20Light%20Dependent%20Resistor%20(LDR)" target="_blank">Light Dependent Resistor (LDR)</a>
 11. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/11%20Microwave%20Radar" target="_blank">Microwave Radar Sensor (RCWL-0516)</a>
+12. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/12%20Buzzer" target="_blank">Buzzer</a>
+13. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/13%20MCP9700%20Temperature%20Sensor" target="_blank">MCP9700 Temperature Sensor</a>
 
 ## Projects
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/01P%20Simple%20Home%20Environment%20Monitoring%20System" target="_blank"> Simple Home Environment Monitoring Systems</a>
