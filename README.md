@@ -21,16 +21,20 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 11. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/11%20Microwave%20Radar" target="_blank">Microwave Radar Sensor (RCWL-0516)</a>
 12. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/12%20Buzzer" target="_blank">Buzzer</a>
 13. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/13%20MCP9700%20Temperature%20Sensor" target="_blank">MCP9700 Temperature Sensor</a>
-
+14. 3V-5.5V SR04P Ultrasonic Ranging Module
+15. Low Cost PIR Sensor Module (HC-SR501)
+16. IR Line Tracking Module
+17. 
 ## Projects
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/01P%20Simple%20Home%20Environment%20Monitoring%20System" target="_blank"> Simple Home Environment Monitoring Systems</a>
 2. ...
 
-## Advanced Kits (Coming Soon!)
-1. Line Following Robot
-2. Obstacle Avoidance Robot
-3. Blynk
-4. ...
+## Advanced Kits: Robotics (Coming Soon!)
+1. Line Following Robot (Maker Line + Maker Drive + 2WD TT Robot)
+2. Obstacle Avoidance Robot (Maker Drive + Ultrasonic + Servo Motor + 2WD TT Robot)
+3. Bluetooth Controlled Robot (Maker Drive + 2WD TT Robot + HC05)
+4. WiFi Controlled Robot (Maker Drive + 2WD TT Robot)
+5. ...
 
 
 
