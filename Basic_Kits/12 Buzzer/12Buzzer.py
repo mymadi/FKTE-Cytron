@@ -1,6 +1,9 @@
 '''
 Example for Pi Pico W: Buzzer
 using simpleio.tone
+
+Additional Library:
+    -simpleio.mpy
 '''
 
 import board
