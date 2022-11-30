@@ -2,7 +2,7 @@
 Example Pi Pico W. 3V-5.5V SR04P Ultrasonic Ranging Module.
 
 Additional Library:
-    - adafruit_hcsr04.py
+    - adafruit_hcsr04.mpy
 '''
 
 import time
