@@ -24,15 +24,20 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 14. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/14%20RGB%20LEDs" target="_blank">Common Anode RGB LEDs</a>
 15. 3V-5.5V SR04P Ultrasonic Ranging Module
 16. Low Cost PIR Sensor Module (HC-SR501)
-17. IR Line Tracking Module
+17. Infrared Sensor Module
 18. Bluetooth Module (HC-05)
 19. Basic WiFi Connect
 20. Telegram Bot: Turn ON LED, Read the Sensor
-21. ...
+21. Blynk
+22. Thingspeak
+23. io.adafruit
+24. Azure IoT
 ## Projects
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/01P%20Simple%20Home%20Environment%20Monitoring%20System" target="_blank"> Simple Home Environment Monitoring Systems</a>
 2. ...
-
+## Intermediate Kits
+1. OLED I2C 0.96Inch 128x64 Blue Display
+2. Neopixel RGB LED Stick
 ## Advanced Kits: Robotics (Coming Soon!)
 1. Line Following Robot (Maker Line + Maker Drive + 2WD TT Robot)
 2. Obstacle Avoidance Robot (Maker Drive + Ultrasonic + Servo Motor + 2WD TT Robot)
