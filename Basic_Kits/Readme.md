@@ -13,9 +13,10 @@ This basic kit is design for embedded system and interfacing using Raspberry Pi 
 5. Dupont Jumper Wires Bundle (20cm/40 ways): 1 unit
 6. MCP9700 Temperature Sensor: 1 unit
 7. Light Emitting Diode: Red (3 Units), Green (3 Units), Yellow (3 Units)
-8. 6x6x1 Push Button 2 Pins: 2 units
-9. I2C 1602 Serial LCD for Arduino & RPI: 1 unit
-10. DHT22: 1 unit
-11. 3V-5.5V SR04P Ultrasonic Ranging Module: 1 unit
-12. Microwave Radar - Human motion Sensor: 1 unit
-13. Buzzer: 1 unit
+8. Common Anode RGB LEDs: 1 unit
+9. 6x6x1 Push Button 2 Pins: 2 units
+10. I2C 1602 Serial LCD for Arduino & RPI: 1 unit
+11. DHT22: 1 unit
+12. 3V-5.5V SR04P Ultrasonic Ranging Module: 1 unit
+13. Microwave Radar - Human motion Sensor: 1 unit
+14. Buzzer: 1 unit
