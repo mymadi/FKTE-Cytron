@@ -20,3 +20,5 @@ This basic kit is design for embedded system and interfacing using Raspberry Pi 
 12. 3V-5.5V SR04P Ultrasonic Ranging Module: 1 unit
 13. Microwave Radar - Human motion Sensor: 1 unit
 14. Buzzer: 1 unit
+15. NPN Transistor (2N22222): 1 unit
+
