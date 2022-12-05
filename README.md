@@ -23,7 +23,7 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 13. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/13%20MCP9700%20Temperature%20Sensor" target="_blank">MCP9700 Temperature Sensor</a> 
 14. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/14%20RGB%20LEDs" target="_blank">Common Anode RGB LEDs</a>
 15. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/15%203V-5.5V%20SR04P%20Ultrasonic%20Ranging%20Module" target="_blank">3V-5.5V SR04P Ultrasonic Ranging Module</a>
-16. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/16%20PIR%20Sensor%20" target="_blank">ModuleLow Cost PIR Sensor Module (HC-SR501)</a>
+16. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/16%20PIR%20Sensor%20Module" target="_blank">Low Cost PIR Sensor Module (HC-SR501)</a>
 17. Infrared Sensor Module
 18. Bluetooth Module (HC-05)
 19. Basic WiFi Connect
