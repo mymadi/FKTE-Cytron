@@ -21,4 +21,5 @@ This basic kit is design for embedded system and interfacing using Raspberry Pi 
 13. Microwave Radar - Human motion Sensor: 1 unit
 14. Buzzer: 1 unit
 15. NPN Transistor (2N22222): 1 unit
+16. Low Cost PIR Sensor Module (HC-SR501): 1 unit
 
