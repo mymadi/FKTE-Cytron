@@ -24,14 +24,13 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 14. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/14%20RGB%20LEDs" target="_blank">Common Anode RGB LEDs</a>
 15. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/15%203V-5.5V%20SR04P%20Ultrasonic%20Ranging%20Module" target="_blank">3V-5.5V SR04P Ultrasonic Ranging Module</a>
 16. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/16%20PIR%20Sensor%20Module" target="_blank">Low Cost PIR Sensor Module (HC-SR501)</a>
-17. Infrared Sensor Module
-18. Bluetooth Module (HC-05)
-19. Basic WiFi Connect
-20. Telegram Bot: Turn ON LED, Read the Sensor
-21. Blynk
-22. Thingspeak
-23. io.adafruit
-24. Azure IoT
+17. Neopixel RGB LED Stick
+18. Basic WiFi Connect
+19. Telegram Bot: Turn ON LED, Read the Sensor
+20. Blynk
+21. Thingspeak
+22. io.adafruit
+23. Azure IoT
 ## Projects
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/01P%20Simple%20Home%20Environment%20Monitoring%20System" target="_blank"> Simple Home Environment Monitoring Systems</a>
 2. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/02P%20Distance%20Measurement%20using%20Ultrasonic%20Sensor" target="_blank"> Distance Measurement using Ultrasonic Sensor</a>
