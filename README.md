@@ -25,7 +25,7 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 15. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/15%203V-5.5V%20SR04P%20Ultrasonic%20Ranging%20Module" target="_blank">3V-5.5V SR04P Ultrasonic Ranging Module</a>
 16. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/16%20PIR%20Sensor%20Module" target="_blank">Low Cost PIR Sensor Module (HC-SR501)</a>
 17. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/17%20Neopixel%20RGB%20LED%20Stick" target="_blank">Neopixel RGB LED Stick</a>
-18. Basic WiFi Connect
+18. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/18%20WiFi%20Connect" target="_blank"> Basic WiFi Connect</a>
 19. Telegram Bot: Turn ON LED, Read the Sensor
 20. Blynk
 21. Thingspeak
