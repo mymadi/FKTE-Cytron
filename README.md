@@ -36,7 +36,7 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 2. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/02P%20Distance%20Measurement%20using%20Ultrasonic%20Sensor" target="_blank"> Distance Measurement using Ultrasonic Sensor</a>
 ## Intermediate Kits
 1. OLED I2C 0.96Inch 128x64 Blue Display
-2. Neopixel RGB LED Stick
+2. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/17%20Neopixel%20RGB%20LED%20Stick" target="_blank">Neopixel RGB LED Stick</a>
 ## Advanced Kits: Robotics (Coming Soon!)
 1. Line Following Robot (Maker Line + Maker Drive + 2WD TT Robot)
 2. Obstacle Avoidance Robot (Maker Drive + Ultrasonic + Servo Motor + 2WD TT Robot)
