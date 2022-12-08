@@ -26,7 +26,7 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 16. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/16%20PIR%20Sensor%20Module" target="_blank">Low Cost PIR Sensor Module (HC-SR501)</a>
 17. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/17%20Neopixel%20RGB%20LED%20Stick" target="_blank">Neopixel RGB LED Stick</a>
 18. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/18%20WiFi%20Connect" target="_blank"> Basic WiFi Connect</a>
-19. <a href+ "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/19%20Telegram%20Bot" target="_blank">Telegram Bot: Turn ON LED, Read the Sensor</a>
+19. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/19%20Telegram%20Bot" target="_blank">Telegram Bot: Turn ON LED, Read the Sensor</a>
 20. Blynk
 21. Thingspeak
 22. io.adafruit
