@@ -19,9 +19,11 @@ Additional Library:
 - adafruit_hcsr04.mpy 
     
 # Project 3
-<p><b>Coming Soon!</b></p>
+<p><b>Simple Smart Home using Telegram Bot</b></p>
 Component Required:
 
-1. ...
-2. ...
-3. ...
+1. Relay Module
+2. DHT22 Module
+3. LDR Module
+4. Buzzer
+5. Light (This Project using 12V Light)
