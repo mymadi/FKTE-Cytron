@@ -39,11 +39,12 @@ Additional Library:
 - adafruit_dht
 
 Reference:
+
 [1] https://www.instructables.com/Controlling-AC-light-using-Arduino-with-relay-modu/
 
 # Project 4
 <p><b>Coming Soon!</b></p>
 Component Required:
 
-1. Relay Module
-2. DHT22 Module
+1. ...
+2. ...
