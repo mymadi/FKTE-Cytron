@@ -27,7 +27,7 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 17. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/17%20Neopixel%20RGB%20LED%20Stick" target="_blank">Neopixel RGB LED Stick</a>
 18. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/18%20WiFi%20Connect" target="_blank"> Basic WiFi Connect</a>
 19. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/19%20Telegram%20Bot" target="_blank">Telegram Bot: Turn ON LED, Read the Sensor</a>
-20. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/20%20Thingspeak" target="_blank">Thingspeak</a>
+20. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/20%20Thingspeak" target="_blank">Thingspeak IoT</a>
 21. io.adafruit
 22. Azure IoT
 23. Blynk
@@ -36,6 +36,7 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/01P%20Simple%20Home%20Environment%20Monitoring%20System" target="_blank"> Simple Home Environment Monitoring Systems</a>
 2. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/02P%20Distance%20Measurement%20using%20Ultrasonic%20Sensor" target="_blank"> Distance Measurement using Ultrasonic Sensor</a>
 3. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/03P%20Simple%20Smart%20Home%20using%20Telegram%20Bot " target="_blank"> Simple Smart Home using Telegram Bot</a>
+4. Smart Home - Thingspeak IoT
 
 ## Intermediate Kits
 1. OLED I2C 0.96Inch 128x64 Blue Display
