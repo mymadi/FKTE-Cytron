@@ -27,7 +27,7 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 17. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/17%20Neopixel%20RGB%20LED%20Stick" target="_blank">Neopixel RGB LED Stick</a>
 18. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/18%20WiFi%20Connect" target="_blank"> Basic WiFi Connect</a>
 19. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/19%20Telegram%20Bot" target="_blank">Telegram Bot: Turn ON LED, Read the Sensor</a>
-20. Thingspeak
+20. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/20%20Thingspeak" target="_blank">Thingspeak</a>
 21. io.adafruit
 22. Azure IoT
 23. Blynk
