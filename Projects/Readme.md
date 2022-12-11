@@ -43,6 +43,25 @@ Reference:
 [1] https://www.instructables.com/Controlling-AC-light-using-Arduino-with-relay-modu/
 
 # Project 4
+<p><b>Smart Home - Thingspeak IoT</b></p>
+Component Required:
+
+1. Relay Module
+2. DHT22 Module
+3. LDR Module
+4. Buzzer
+5. Light (This Project using 12V Light)
+
+Additional Library:
+- adafruit_requests.mpy
+- simpleio.mpy
+- adafruit_dht
+
+Reference:
+
+[1] https://www.instructables.com/Controlling-AC-light-using-Arduino-with-relay-modu/
+
+# Project 5
 <p><b>Coming Soon!</b></p>
 Component Required:
 
