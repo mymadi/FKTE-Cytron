@@ -69,7 +69,8 @@ Component Required:
 2. DHT22 Module
 3. LDR Module
 4. Buzzer
-5. Light (This Project using 12V Light)
+5. Microwave Radar - Human motion Sensor
+6. Light (This Project using 12V Light)
 
 Additional Library:
 - adafruit_requests.mpy
