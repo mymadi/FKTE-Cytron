@@ -62,7 +62,7 @@ Reference:
 [1] https://www.instructables.com/Controlling-AC-light-using-Arduino-with-relay-modu/
 
 ## Project 5
-<p><b>Smart Home - Blybk IoT</b></p>
+<p><b>Smart Home - Blynk IoT</b></p>
 Component Required:
 
 1. Relay Module
