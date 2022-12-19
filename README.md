@@ -37,6 +37,7 @@ Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpy
 2. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/02P%20Distance%20Measurement%20using%20Ultrasonic%20Sensor" target="_blank"> Distance Measurement using Ultrasonic Sensor</a>
 3. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/03P%20Simple%20Smart%20Home%20using%20Telegram%20Bot" target="_blank"> Simple Smart Home using Telegram Bot</a>
 4. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/04P%20Smart%20Home%20-%20ThingSpeak%20IoT" target="_blank">Smart Home - Thingspeak IoT</a>
+5. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/05P%20Smart%20Home%20-%20Blynk%20IoT" target="_blank">Smart Home - Blynk IoT</a>
 
 ## Intermediate Kits
 1. OLED I2C 0.96Inch 128x64 Blue Display
