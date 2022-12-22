@@ -77,7 +77,7 @@ print("Pi Pico W: Data Collection ^_^")
 while True:
     try:
     # open file for append
-        with open("/sd/data02.txt", "a") as f:
+        with open("/sd/data03.txt", "a") as f:
             t = rtc.datetime
             led.value = True  # turn on LED to indicate we're writing to the file
             # Read the Sensors
@@ -87,7 +87,7 @@ while True:
             humi = round(dhtval[1],2)
             lux = round(luxval,2)
             
-            f.write("{}:{:02}:{:02},{:.2f},{:.2f},{:.2f}\n".format(t.tm_hour,t.tm_min,t.tm_sec,temp,humi,lux))
+            f.write("{},{}/{}/{},{}:{:02}:{:02},{:.2f},{:.2f},{:.2f}\n".format(days[int(t.tm_wday)],t.tm_mday,t.tm_mon,t.tm_year,t.tm_hour,t.tm_min,t.tm_sec,temp,humi,lux))
             led.value = False  # turn off LED to indicate we're done
             simpleio.tone(buzzer, NOTE_G4, duration=0.15)
             
