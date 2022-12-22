@@ -82,3 +82,18 @@ Reference:
 [1] https://www.instructables.com/Controlling-AC-light-using-Arduino-with-relay-modu/
 
 [2] https://peppe8o.com/personal-iot-with-blynk-on-raspberry-pi/
+
+## Project 6
+<p><b>Data Logger</b></p>
+Component Required:
+
+1. SD Card Module
+2. DHT22 Module
+3. LDR Module
+4. Buzzer
+5. RTC ds1370 Module
+
+Additional Library:
+- simpleio.mpy
+- adafruit_dht
+- adafruit_ds1307.mpy
