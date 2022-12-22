@@ -23,4 +23,5 @@ This basic kit is design for embedded system and interfacing using Raspberry Pi 
 15. NPN Transistor (2N22222): 1 unit
 16. Low Cost PIR Sensor Module (HC-SR501): 1 unit
 17. Neopixel RGB LED Stick: 1 unit
-
+18. 5V Compatible Micro SD Card Adapter: 1 Unit
+19. DS1307 RTC I2C Module: 1 Unit
