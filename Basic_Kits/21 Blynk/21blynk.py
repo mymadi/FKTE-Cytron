@@ -1,6 +1,6 @@
 """
 Blynk IoT
-  - Tested with CircuitPython 8.0.0-beta.5
+  - Tested with CircuitPython 8.0.0-beta.6
 
 Additional libraries
   https://circuitpython.org/libraries
@@ -24,11 +24,11 @@ import adafruit_requests
 import ssl
 import random
 
-# Get wifi and blynk token details from a .env file
-print(os.getenv('test_env_file'))
-ssid = os.getenv('WIFI_SSID')
-password = os.getenv('WIFI_PASSWORD')
-blynkToken = os.getenv('blynk_auth_token')
+# Get wifi and blynk token details from a settings.toml file
+print(os.getenv("test_env_file"))
+ssid = os.getenv("WIFI_SSID")
+password = os.getenv("WIFI_PASSWORD")
+blynkToken = os.getenv("blynk_auth_token")
 
 # Buzzer
 NOTE_G4 = 392
