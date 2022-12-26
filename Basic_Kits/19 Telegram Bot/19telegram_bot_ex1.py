@@ -20,11 +20,11 @@ import simpleio
 import adafruit_requests
 import ssl
 
-# Get wifi and telegram token details from a .env file
-print(os.getenv('test_env_file'))
-ssid = os.getenv('WIFI_SSID')
-password = os.getenv('WIFI_PASSWORD')
-telegrambot = os.getenv('botToken')
+# Get wifi details from a settings.toml file
+print(os.getenv("test_env_file"))
+ssid = os.getenv("WIFI_SSID")
+password = os.getenv("WIFI_PASSWORD")
+telegrambot = os.getenv("botToken")
 
 # Telegram API url.
 API_URL = "https://api.telegram.org/bot" + telegrambot
