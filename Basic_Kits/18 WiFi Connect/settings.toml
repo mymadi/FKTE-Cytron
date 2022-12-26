@@ -1,0 +1,24 @@
+# WiFi Details
+WIFI_SSID = "your ssid"
+WIFI_PASSWORD = 'your password'
+
+# Test the settings.toml file
+test_env_file = "😍 Hello Environmental Variables!"
+
+# adafruit io
+
+aio_username = "your adafruit io username"
+aio_key = "your adafruit io key"
+
+# Telegram
+
+botToken = "your telegram token"
+
+# Thingspeak
+
+thingspeak_write_api_key = "your write API key"
+thingspeak_read_api_key = "your read API key"
+
+# Blynk
+
+blynk_auth_token = "your blynk token"
