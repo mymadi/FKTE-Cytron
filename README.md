@@ -6,6 +6,8 @@ Embedded System and Interfacing
 
 ## Attention!
 Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpython.org/libraries)
+Tested with CircuitPython 8.0.0-beta.6
+https://downloads.circuitpython.org/bin/raspberry_pi_pico_w/en_US/adafruit-circuitpython-raspberry_pi_pico_w-en_US-8.0.0-beta.6.uf2
 
 ## Basic Kits
 1. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/01%20Blink%20built-in%20LED" target="_blank">Blink (Built-in LED)</a>
