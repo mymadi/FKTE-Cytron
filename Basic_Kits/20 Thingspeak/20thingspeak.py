@@ -1,6 +1,6 @@
 """
 Thingspaek IoT using CircuitPython on Raspberry Pi Pico W
-  - Tested with CircuitPython 8.0.0-beta.4
+  - Tested with CircuitPython 8.0.0-beta.6
 
 Additional libraries
   https://circuitpython.org/libraries
@@ -24,11 +24,11 @@ import adafruit_requests
 import ssl
 import random
 
-# Get wifi and thingspeak write API details from a .env file
-print(os.getenv('test_env_file'))
-ssid = os.getenv('WIFI_SSID')
-password = os.getenv('WIFI_PASSWORD')
-tswriteAPI = os.getenv('thingspeak_write_api_key')
+# Get wifi and thingspeak write API details from a settings.toml file
+print(os.getenv("test_env_file"))
+ssid = os.getenv("WIFI_SSID")
+password = os.getenv("WIFI_PASSWORD")
+tswriteAPI = os.getenv("thingspeak_write_api_key")
 
 # Thingspeak API url.
 API_URL = "http://api.thingspeak.com"
