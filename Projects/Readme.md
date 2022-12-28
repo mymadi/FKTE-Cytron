@@ -111,4 +111,7 @@ Component Required:
 Additional Library:
 - adafruit_requests.mpy
 - simpleio.mpy
-- adafruit_dht
+- adafruit_dht.mpy
+- adafruit_io
+- adafruit_minimqtt
+- adafruit_register
