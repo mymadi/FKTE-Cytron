@@ -34,7 +34,7 @@ https://downloads.circuitpython.org/bin/raspberry_pi_pico_w/en_US/adafruit-circu
 21. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/21%20Blynk" target="_blank">Blynk IoT</a>
 22. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/22%20SD%20Card" target="_blank">SD Card</a>
 23. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/23%20RTCds1307" target="_blank">RTC ds1307</a>
-24. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/24%20Adafruit%20IO" target="_blank">Adafriot IoT</a>
+24. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/24%20Adafruit%20IO" target="_blank">Adafruit IoT</a>
 25. Azure IoT
 
 ## Projects
