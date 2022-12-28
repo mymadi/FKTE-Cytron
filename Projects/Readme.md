@@ -97,3 +97,18 @@ Additional Library:
 - simpleio.mpy
 - adafruit_dht
 - adafruit_ds1307.mpy
+
+## Project 7
+<p><b>Smart Home - Adafruit IO</b></p>
+Component Required:
+
+1. Relay Module
+2. DHT22 Module
+3. LDR Module
+4. Buzzer
+5. Light (This Project using 12V Light)
+
+Additional Library:
+- adafruit_requests.mpy
+- simpleio.mpy
+- adafruit_dht
