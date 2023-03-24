@@ -6,9 +6,6 @@ Embedded System and Interfacing
 
 ## Attention!
 - Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpython.org/libraries)
-- Tested with CircuitPython <b>8.0.0-beta.6</b>
-- 
-https://downloads.circuitpython.org/bin/raspberry_pi_pico_w/en_US/adafruit-circuitpython-raspberry_pi_pico_w-en_US-8.0.0-beta.6.uf2
 
 ## Basic Kits
 1. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/01%20Blink%20built-in%20LED" target="_blank">Blink (Built-in LED)</a>
@@ -46,15 +43,10 @@ https://downloads.circuitpython.org/bin/raspberry_pi_pico_w/en_US/adafruit-circu
 6. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/06P%20Data%20Logger" target="_blank">Data Logger</a>
 7. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/07P%20Smart%20Home%20-%20Adafruit%20IO" target="_blank">Smart Home - Adafruit IO</a>
 
-## Intermediate Kits
-1. OLED I2C 0.96Inch 128x64 Blue Display
-2. ...
-## Advanced Kits: Robotics (Coming Soon!)
-1. Line Following Robot (Maker Line + Maker Drive + 2WD Smart Robot Car Chassis)
-2. Obstacle Avoidance Robot (Maker Drive + Ultrasonic + Servo Motor + 2WD Smart Robot Car Chassis)
-3. Bluetooth Controlled Robot (Maker Drive + 2WD Smart Robot Car Chassis + HC05)
-4. WiFi Controlled Robot (Maker Drive + 2WD Smart Robot Car Chassis)
-5. ...
+## Robotic Kits
+### Maker Drive + 2WD Smart Robot Car Chassi
+1. Robot Movements
+
 
 
 
