@@ -50,10 +50,10 @@ https://downloads.circuitpython.org/bin/raspberry_pi_pico_w/en_US/adafruit-circu
 1. OLED I2C 0.96Inch 128x64 Blue Display
 2. ...
 ## Advanced Kits: Robotics (Coming Soon!)
-1. Line Following Robot (Maker Line + Maker Drive + 2WD TT Robot)
-2. Obstacle Avoidance Robot (Maker Drive + Ultrasonic + Servo Motor + 2WD TT Robot)
-3. Bluetooth Controlled Robot (Maker Drive + 2WD TT Robot + HC05)
-4. WiFi Controlled Robot (Maker Drive + 2WD TT Robot)
+1. Line Following Robot (Maker Line + Maker Drive + 2WD Smart Robot Car Chassis)
+2. Obstacle Avoidance Robot (Maker Drive + Ultrasonic + Servo Motor + 2WD Smart Robot Car Chassis)
+3. Bluetooth Controlled Robot (Maker Drive + 2WD Smart Robot Car Chassis + HC05)
+4. WiFi Controlled Robot (Maker Drive + 2WD Smart Robot Car Chassis)
 5. ...
 
 
