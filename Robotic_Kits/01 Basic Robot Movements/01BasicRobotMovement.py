@@ -1,5 +1,5 @@
 '''
-Basic Robot Movement using Maker Drive and CircuitPython on Pi Pico W.
+Basic Robot Movement using Maker Drive and CircuitPython on Pi Pico W
 
 Libraries required from bundle (https://circuitpython.org/libraries):
   - adafruit_motor
