@@ -48,7 +48,7 @@ The aim of this course is to enable the students to learn the concepts and requi
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/blob/main/Robotic_Kits/01%20Basic%20Robot%20Movements/01BasicRobotMovement.py">Basic Robot Movements</a>
 
 
-## 🎮<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects">Projects (Robotic Kits)</a>
+## 🎮<a href= "">Projects (Robotic Kits)</a>
 1. <a href = "">-</a>
 
 
