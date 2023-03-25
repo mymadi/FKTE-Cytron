@@ -8,7 +8,7 @@ The aim of this course is to enable the students to learn the concepts and requi
 ## Attention!
 - Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpython.org/libraries)
 
-## <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits">Basic Kits</a>
+## ⚡️<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits">Basic Kits</a>
 1. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/01%20Blink%20built-in%20LED" target="_blank">Blink (Built-in LED)</a>
 2. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/02%20Blink%20LED%20GP0" target="_blank">Blink (GP0)</a>
 3. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/03%20Running%20and%20Blink%20LEDs" target="_blank">Running and Blink LEDs</a>
@@ -44,7 +44,7 @@ The aim of this course is to enable the students to learn the concepts and requi
 6. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/06P%20Data%20Logger" target="_blank">Data Logger</a>
 7. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/07P%20Smart%20Home%20-%20Adafruit%20IO" target="_blank">Smart Home - Adafruit IO</a>
 
-## <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Robotic_Kits">Robotic Kits</a>
+## 🤖<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Robotic_Kits">Robotic Kits</a>
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/blob/main/Robotic_Kits/01%20Basic%20Robot%20Movements/01BasicRobotMovement.py">Basic Robot Movements</a>
 
 
