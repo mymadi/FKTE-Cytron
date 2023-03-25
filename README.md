@@ -2,7 +2,8 @@
 
 
 # FKTE-Cytron
-Embedded System and Interfacing
+<b>Embedded System and Interfacing</b></br>
+The aim of this course is to enable the students to learn the concepts and requirements, as well as design a self-contained embedded system. This includes the study on the characteristics of embedded systems, hardware and software development, single chip microcontroller, programming techniques and developing an embedded system application.
 
 ## Attention!
 - Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpython.org/libraries)
