@@ -45,7 +45,7 @@ The aim of this course is to enable the students to learn the concepts and requi
 7. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Projects/07P%20Smart%20Home%20-%20Adafruit%20IO" target="_blank">Smart Home - Adafruit IO</a>
 
 ## 🤖<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Robotic_Kits">Robotic Kits</a>
-1. <a href= "https://github.com/mymadi/FKTE-Cytron/blob/main/Robotic_Kits/01%20Basic%20Robot%20Movements/01BasicRobotMovement.py">Basic Robot Movements</a>
+1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Robotic_Kits/01%20Basic%20Robot%20Movements">Basic Robot Movements</a>
 
 
 ## 🎮<a href= "">Projects (Robotic Kits)</a>
