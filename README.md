@@ -46,7 +46,7 @@ The aim of this course is to enable the students to learn the concepts and requi
 
 ## 🤖<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Robotic_Kits">Robotic Kits</a>
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Robotic_Kits/01%20Basic%20Robot%20Movements">Basic Robot Movements</a>
-2, <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Robotic_Kits/02%20Obstacle%20Avoidance">Simple Obstacle Avoidance Robot</a>
+2. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Robotic_Kits/02%20Obstacle%20Avoidance">Simple Obstacle Avoidance Robot</a>
 
 
 ## 🎮<a href= "">Projects (Robotic Kits)</a>
