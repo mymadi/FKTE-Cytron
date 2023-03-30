@@ -6,7 +6,10 @@
 The aim of this course is to enable the students to learn the concepts and requirements, as well as design a self-contained embedded system. This includes the study on the characteristics of embedded systems, hardware and software development, single chip microcontroller, programming techniques and developing an embedded system application.
 
 ## Attention!
+- Python IDE for Beginners (https://thonny.org/)
+- Latest Stable Release of CircuitPython (https://circuitpython.org/board/raspberry_pi_pico_w/)
 - Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpython.org/libraries)
+- Raspberry Pi Pico Family (https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 ## ⚡️<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits">Basic Kits</a>
 1. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/01%20Blink%20built-in%20LED" target="_blank">Blink (Built-in LED)</a>
