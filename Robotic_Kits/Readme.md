@@ -15,8 +15,8 @@
 11. <a href= "https://my.cytron.io/p-transistor-2n2222">NPN Transistor (2N22222)</a>: 1 unit
 
 ## Related Sensors
-1. <a href= "https://my.cytron.io/p-3v-5.5v-ultrasonic-ranging-module">3V-5.5V SR04P Ultrasonic Ranging Module</a> - 1 Unit
-2. <a href="https://my.cytron.io/p-maker-line-simplifying-line-sensor-for-beginner">Maker Line: Simplifying Line Sensor For Beginner</a> - 1 Unit
-3. <a href="">-</a>
+1. <a href= "https://my.cytron.io/p-3v-5.5v-ultrasonic-ranging-module">3V-5.5V SR04P Ultrasonic Ranging Module</a>: 1 Unit
+2. <a href="https://my.cytron.io/p-maker-line-simplifying-line-sensor-for-beginner">Maker Line: Simplifying Line Sensor For Beginner</a>: 1 Unit
+3. <a href="https://my.cytron.io/p-light-sensor-module">Light Sensor Module</a>: 2 Units
 4. <a href="">-</a>
 5. <a href="">-</a>
