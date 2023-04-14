@@ -11,7 +11,7 @@ The aim of this course is to enable the students to learn the concepts and requi
 - Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpython.org/libraries)
 - Raspberry Pi Pico Family (https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 - Where To Buy the Pi Pico and Components? (https://my.cytron.io/)
-- Get the Basic Kits HERE (https://my.cytron.io/p-pico-w-student-kit-circuitpython-for-beginner)
+- Get the Basic Kits HERE❗️ (https://my.cytron.io/p-pico-w-student-kit-circuitpython-for-beginner)
 
 ## ⚡️<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits">Basic Kits</a>
 1. <a href="https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/01%20Blink%20built-in%20LED" target="_blank">Blink (Built-in LED)</a>
