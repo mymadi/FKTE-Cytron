@@ -23,7 +23,7 @@ import i2c_pcf8574_interface
 sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.GP7, echo_pin=board.GP6)
 # Serial LCD
 i2c = busio.I2C(scl=board.GP5, sda=board.GP4)
-address = 0x3F
+address = 0x27 #0x3F
 i2c = i2c_pcf8574_interface.I2CPCF8574Interface(i2c, address)
 display = lcd.LCD(i2c, num_rows=2, num_cols=16)
 display.set_backlight(True)
