@@ -131,8 +131,9 @@ while True:
             send_message(chat_id,"Choose from one of the following options:")
             send_message(chat_id,"1) Built-in LED ON:  /LED_ON")
             send_message(chat_id,"2) Built-in LED OFF: /LED_OFF")
-            send_message(chat_id,"3) Read Internal Temperature: /Temp")
-            send_message(chat_id,"4) Check Push Button Status: /PB")
+            send_message(chat_id,"3) Blink LED at GP0: /LED0_BLK")
+            send_message(chat_id,"4) Read Internal Temperature: /Temp")
+            send_message(chat_id,"5) Check Push Button Status: /PB")
         elif message_in == "/LED_ON":
             led.value = True
             send_message(chat_id, "LED turn on.")
