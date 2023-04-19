@@ -1,6 +1,6 @@
 # WiFi Details
 WIFI_SSID = "your ssid"
-WIFI_PASSWORD = 'your password'
+WIFI_PASSWORD = "your password"
 
 # Test the settings.toml file
 test_env_file = "😍 Hello Environmental Variables!"
