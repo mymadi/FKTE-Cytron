@@ -23,7 +23,7 @@ wifi.radio.connect(ssid, password)
 print("connected!")
 print()
 
-pool = socketpool.SocketPool(wifi.radio)
+#pool = socketpool.SocketPool(wifi.radio)
 
 #  Print MAC address
 print("Pico W MAC address: ", [hex(i) for i in wifi.radio.mac_address])
