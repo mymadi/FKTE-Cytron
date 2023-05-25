@@ -78,6 +78,7 @@ while True:
         # Set as Double for floating number
         valV1 = str(round(random.uniform(0,250),2))
         write(blynkToken,"V1",valV1)
+        print(valV1)
         
         # Read Blynk virtual pin V0
         # V0 can be assigned to Button Widget on Blynk App
