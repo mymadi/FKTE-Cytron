@@ -8,7 +8,6 @@ https://docs.circuitpython.org/en/latest/docs/environment.html
 import os
 import ipaddress
 import wifi
-import socketpool
 
 # Get wifi details from a settings.toml file
 print(os.getenv("test_env_file"))
@@ -22,8 +21,6 @@ wifi.radio.connect(ssid, password)
 
 print("connected!")
 print()
-
-#pool = socketpool.SocketPool(wifi.radio)
 
 #  Print MAC address
 print("Pico W MAC address: ", [hex(i) for i in wifi.radio.mac_address])
