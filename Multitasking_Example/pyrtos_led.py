@@ -8,6 +8,10 @@ Where to gets the Library?
 
 https://github.com/Rybec/pyRTOS/tree/main/pyRTOS
 
+Note:
+
+1) Push Button, GP21 (sw17 task) status will be printed at led1 Task
+2) Random Data (RD18 Task) value will be printed at led2 Task
 
 Reference:
 
@@ -22,8 +26,8 @@ import time
 import pyRTOS
 import random
 
-swT = False
-RData = 0
+swT = False # Initialize global variables
+RData = 0   # Initialize global variables
 
 def led1(self):
     ledpin1 = digitalio.DigitalInOut(board.GP0)
