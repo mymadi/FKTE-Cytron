@@ -7,7 +7,7 @@ Additional Library:
     
 Reference:
 
-https://learn.adafruit.com/cooperative-multitasking-in-circuitpython-with-asyncio/overview
+https://learn.adafruit.com/cooperative-multitasking-in-circuitpython-with-asyncio/concurrent-tasks
 '''
 import asyncio
 import board
