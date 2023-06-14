@@ -13,14 +13,17 @@ Reference:
 
 1) https://www.seeedstudio.com/blog/2021/04/26/rtos-basics-getting-started-with-microcontrollers/
 2) https://my.cytron.io/tutorial/real-time-multitasking-on-maker-pi-pico-using-pyrtos
+3) https://my.cytron.io/tutorial/real-time-iot-room-monitoring-on-maker-pi-pico-using-pyrtos
 '''
 
 import board
 import digitalio
 import time
 import pyRTOS
+import random
 
 swT = False
+RData = 0
 
 def led1(self):
     ledpin1 = digitalio.DigitalInOut(board.GP0)
@@ -30,7 +33,7 @@ def led1(self):
 
     while True:
         ledpin1.value = not ledpin1.value
-        print(swT)
+        print("LED1 Task",swT)
         yield [pyRTOS.timeout(1)]
 
 def led2(self):
@@ -41,6 +44,7 @@ def led2(self):
 
     while True:
         ledpin2.value = not ledpin2.value
+        print("LED2 Task",RData)
         yield [pyRTOS.timeout(0.95)]
 
 def led3(self):
@@ -198,6 +202,14 @@ def sw17(self):
             swT = not swT
         yield [pyRTOS.timeout(0.15)]
         
+def RD18(self):
+    global RData
+    yield
+
+    while True:
+        RData = random.uniform(0,250)
+        yield [pyRTOS.timeout(1)]
+        
 pyRTOS.add_task(pyRTOS.Task(led1, name="1"))
 pyRTOS.add_task(pyRTOS.Task(led2, name="2"))
 pyRTOS.add_task(pyRTOS.Task(led3, name="3"))
@@ -215,5 +227,6 @@ pyRTOS.add_task(pyRTOS.Task(led14, name="14"))
 pyRTOS.add_task(pyRTOS.Task(led15, name="15"))
 pyRTOS.add_task(pyRTOS.Task(led16, name="16"))
 pyRTOS.add_task(pyRTOS.Task(sw17, name="17"))
+pyRTOS.add_task(pyRTOS.Task(RD18, name="18"))
 
 pyRTOS.start()
