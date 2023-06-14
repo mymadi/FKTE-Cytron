@@ -20,6 +20,8 @@ import digitalio
 import time
 import pyRTOS
 
+swT = False
+
 def led1(self):
     ledpin1 = digitalio.DigitalInOut(board.GP0)
     ledpin1.direction = digitalio.Direction.OUTPUT
@@ -28,6 +30,7 @@ def led1(self):
 
     while True:
         ledpin1.value = not ledpin1.value
+        print(swT)
         yield [pyRTOS.timeout(1)]
 
 def led2(self):
@@ -181,6 +184,7 @@ def led16(self):
         yield [pyRTOS.timeout(0.25)]
 
 def sw17(self):
+    global swT
     swpin17 = digitalio.DigitalInOut(board.GP21)
     swpin17.direction = digitalio.Direction.INPUT
     ledpin17 = digitalio.DigitalInOut(board.GP16)
@@ -191,6 +195,7 @@ def sw17(self):
     while True:
         if swpin17.value == False:
             ledpin17.value = not ledpin17.value
+            swT = not swT
         yield [pyRTOS.timeout(0.15)]
         
 pyRTOS.add_task(pyRTOS.Task(led1, name="1"))
