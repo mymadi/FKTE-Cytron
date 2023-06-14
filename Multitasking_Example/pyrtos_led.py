@@ -12,7 +12,7 @@ https://github.com/Rybec/pyRTOS/tree/main/pyRTOS
 Reference:
 
 1) https://www.seeedstudio.com/blog/2021/04/26/rtos-basics-getting-started-with-microcontrollers/
-2) https://www.cytrontech.vn/tutorial/real-time-multitasking-on-maker-pi-pico-using-pyrtos
+2) https://my.cytron.io/tutorial/real-time-multitasking-on-maker-pi-pico-using-pyrtos
 '''
 
 import board
