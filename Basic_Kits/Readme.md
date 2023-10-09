@@ -11,7 +11,7 @@ This basic kit is design for embedded system and interfacing using Raspberry Pi 
 3. <a href= "https://my.cytron.io/search?search=resistor">Resistor</a>: 330ohm (9 units), 10kohm (1 unit)
 4. <a href= "https://my.cytron.io/p-breadboard-16.5x5.5cm-830-holes">Breadboard 16.5x5.5cm (830 Holes)</a>: 1 unit
 5. <a href= "https://my.cytron.io/p-dupont-jumper-wires-bundle-20cm-40-ways">Dupont Jumper Wires Bundle (20cm/40 ways): 1 unit
-6. <a href= "https://my.cytron.io/p-mcp9700-linear-temperature-sensor">MCP9700 Temperature Sensor</a>: 1 unit
+6. <a href= "https://my.cytron.io/p-mcp9700-linear-temperature-sensor-by-cytron">MCP9700 Linear Temperature Sensor</a>: 1 unit
 7. <a href= "https://my.cytron.io/c-robotics-electronics/c-electronic-components/c-led-lcd/c-led">Light Emitting Diode</a>: Red (3 Units), Green (3 Units), Yellow (3 Units)
 8. <a href= "https://my.cytron.io/p-led-5mm-red-green-blue-4pin">Common Anode RGB LEDs</a>: 1 unit
 9. <a href= "https://my.cytron.io/p-6x6x1-push-button-2-pins">6x6x1 Push Button 2 Pins</a>: 2 units
