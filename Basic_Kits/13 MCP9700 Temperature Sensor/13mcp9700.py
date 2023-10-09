@@ -2,7 +2,7 @@
 MCP9700 Temperature Sensor
 
 References:
-[1] Datasheet, https://drive.google.com/file/d/1RkvPfGPVTxeZoKctQkr2t4XRbr2ieJT6/view
+[1] Datasheet: https://docs.google.com/document/d/1Yg4krOVZN__Q0NPKvb4om0IJVZMJksBEIjuhJPlcBTM/edit
 [2] https://startingelectronics.org/beginners/start-electronics-now/tut15-arduino-serial-thermometer/
 '''
 import time
