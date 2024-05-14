@@ -1,6 +1,10 @@
 '''
-Light Dependent Resistor (LDR)
-Convert it into Lux
+- A Light Dependent Resistor (LDR) at the Bottom
+- Convert it into Lux
+
+Link:
+1) Module: https://my.cytron.io/p-light-sensor-module
+2) Schematic: https://static.cytron.io/download/usr_attachment/LDR%20Sensor%20Module.pdf
 '''
 import time
 import board
@@ -15,7 +19,7 @@ def get_voltage(raw):
 def rtolux (rawval):
     vout = get_voltage(rawval)
     RLDR = (vout*R)/(3.3-vout)
-    lux = 500/(RLDR/1000)       # Conversion resitance to lumen
+    lux = 500/(RLDR/1000)       # Conversion resistance to lumen
     return lux
     
 while True:
