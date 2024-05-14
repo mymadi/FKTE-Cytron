@@ -4,6 +4,7 @@
 
 Link:
 https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/10%20Light%20Dependent%20Resistor%20(LDR)/A%20Light%20Dependent%20Resistor%20at%20Top.png
+
 '''
 import time
 import board
