@@ -5,6 +5,7 @@
 Link:
 1) Module: https://my.cytron.io/p-light-sensor-module
 2) Schematic: https://static.cytron.io/download/usr_attachment/LDR%20Sensor%20Module.pdf
+3) https://github.com/mymadi/FKTE-Cytron/blob/main/Basic_Kits/10%20Light%20Dependent%20Resistor%20(LDR)/A%20Light%20Dependent%20Resistor%20at%20Bottom.png
 '''
 import time
 import board
