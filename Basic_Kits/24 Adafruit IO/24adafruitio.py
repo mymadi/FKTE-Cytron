@@ -1,6 +1,5 @@
 '''
 Adafruit IO using CircuitPython on Raspberry Pi Pico W
-  - Tested with CircuitPython 8.0.0-beta.6
 
 Additional libraries
   https://circuitpython.org/libraries
@@ -10,6 +9,7 @@ Additional libraries
     - adafruit_minimqtt
     - adafruit_register
     - simpleio.mpy
+    - adafruit_connection_manager.mpy
 
 References:
 [1] https://learn.adafruit.com/pico-w-wifi-with-circuitpython/pico-w-with-adafruit-io
