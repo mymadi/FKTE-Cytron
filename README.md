@@ -8,7 +8,7 @@ The aim of this course is to enable the students to learn the concepts and requi
 ## Attention!
 - Python IDE for Beginners (https://thonny.org/)
 - Latest Stable Release of CircuitPython (https://circuitpython.org/board/raspberry_pi_pico_w/)
-- Required Library (<b>Bundle for Version 8.x</b>) from Here >> (https://circuitpython.org/libraries)
+- Required Library (<b>Bundle for Version 8.x/9.x</b>) from Here >> (https://circuitpython.org/libraries)
 - Raspberry Pi Pico Family (https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 - Where To Buy the Pi Pico and Components? (https://my.cytron.io/)
 - <b>Get the Basic Kits HERE</b>❗️ (https://my.cytron.io/p-pico-w-student-kit-circuitpython-for-beginner)
