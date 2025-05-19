@@ -1,7 +1,7 @@
 """
 Favoriot using CircuitPython on Raspberry Pi Pico W (Publish)
     - https://www.favoriot.com/
-    - Free version limit to 2 widgets and 500 samples per day
+    - Free version limit to 2 widgets and 500 samples per day.
 
 Additional libraries
   https://circuitpython.org/libraries
