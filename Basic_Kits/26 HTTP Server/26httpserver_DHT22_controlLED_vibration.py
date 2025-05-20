@@ -19,8 +19,10 @@ import time
 import os
 
 # Default settings
+WIFI_SSID = "YOUR_WIFI_SSID"
+WIFI_PASSWORD = "YOUR_WIFI_PASSWORD"
 DHT_PIN_NAME = "GP4"
-LED_PIN_NAME = "GP0"  # LED on Pico W
+LED_PIN_NAME = "GP0"  # Built-in LED on Pico W
 VIBRATION_PIN_NAME = "GP2"  # Vibration sensor pin
 SERVER_PORT = 80
 AUTO_REFRESH_SECONDS = 10  # Auto-refresh interval
@@ -80,10 +82,7 @@ def get_sensor_data():
 def check_vibration():
     global last_vibration_time, vibration_detected
 
-    # Check if vibration is currently detected
-    # Note: Depending on your sensor, you might need to invert this logic
-    current_vibration = not vibration_sensor.value  # For sensors that give LOW on vibration
-    # For sensors that give HIGH on vibration, use: current_vibration = vibration_sensor.value
+    current_vibration = vibration_sensor.value
 
     # If vibration is detected, update the timestamp
     if current_vibration:
