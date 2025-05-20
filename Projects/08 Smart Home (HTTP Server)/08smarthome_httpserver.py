@@ -210,7 +210,7 @@ def build_html(temp, hum, led_on, vibration):
 </head>
 <body>
     <div class="container">
-        <h1>Pico W Sensor Monitor</h1>
+        <h1>Smart Home Monitoring System</h1>
 
         <div class="gauge-label">Temperature</div>
         <div class="range-indicators">
