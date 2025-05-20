@@ -1,7 +1,7 @@
 """
 HTTP Server using CircuitPython on Raspberry Pi Pico W
     - Read DHT22 Sensor
-    - Need to toggle REFRESH button for new data
+    - Need to toggle REFRESH button for new data.
     
 Additional libraries
   https://circuitpython.org/libraries
