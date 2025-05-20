@@ -1,6 +1,5 @@
 """
 Telegram Bot using CircuitPython on Raspberry Pi Pico W
-  - Tested with CircuitPython 8.0.0-beta.6
 
 Additional libraries
   https://circuitpython.org/libraries
