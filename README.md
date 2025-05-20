@@ -38,7 +38,8 @@ The aim of this course is to enable the students to learn the concepts and requi
 22. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/22%20SD%20Card" target="_blank">SD Card</a>
 23. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/23%20RTCds1307" target="_blank">RTC ds1307</a>
 24. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/24%20Adafruit%20IO" target="_blank">Adafruit IoT</a>
-25. Azure IoT
+25. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/25%20Favoriot" target="_blank">Favoriot IoT</a>
+26. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Basic_Kits/26%20HTTP%20Server" target="_blank">HTTP Server</a>
 
 ## 🗃<a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Additional_Kits">Additional for Basic Kits</a>
 1. <a href= "https://github.com/mymadi/FKTE-Cytron/tree/main/Additional_Kits/01A%20Servo%20Motor">Servo Motor Movement (0 - 180 degrees)</a>
