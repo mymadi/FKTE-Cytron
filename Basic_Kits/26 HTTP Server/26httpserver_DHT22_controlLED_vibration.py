@@ -19,10 +19,8 @@ import time
 import os
 
 # Default settings
-WIFI_SSID = "YOUR_WIFI_SSID"
-WIFI_PASSWORD = "YOUR_WIFI_PASSWORD"
 DHT_PIN_NAME = "GP4"
-LED_PIN_NAME = "GP0"  # Built-in LED on Pico W
+LED_PIN_NAME = "GP0"  # LED on Pico W
 VIBRATION_PIN_NAME = "GP2"  # Vibration sensor pin
 SERVER_PORT = 80
 AUTO_REFRESH_SECONDS = 10  # Auto-refresh interval
