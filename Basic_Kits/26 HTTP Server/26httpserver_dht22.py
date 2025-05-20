@@ -16,8 +16,6 @@ import time
 import os
 
 # Default settings
-WIFI_SSID = "YOUR_WIFI_SSID"
-WIFI_PASSWORD = "YOUR_WIFI_PASSWORD"
 DHT_PIN_NAME = "GP4"
 SERVER_PORT = 80
 
