@@ -53,7 +53,7 @@ led_state = False  # Initial state: OFF
 vibration_pin = getattr(board, VIBRATION_PIN_NAME)
 vibration_sensor = digitalio.DigitalInOut(vibration_pin)
 vibration_sensor.direction = digitalio.Direction.INPUT
-vibration_sensor.pull = digitalio.Pull.UP  # Use pull-up if sensor gives LOW when vibration detected
+# vibration_sensor.pull = digitalio.Pull.UP  # Use pull-up if sensor gives LOW when vibration detected
 # For sensors that give HIGH on vibration, use: vibration_sensor.pull = digitalio.Pull.DOWN
 
 # Variables to track vibration
