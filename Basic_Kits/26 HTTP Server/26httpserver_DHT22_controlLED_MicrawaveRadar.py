@@ -3,7 +3,7 @@ HTTP Server using CircuitPython on Raspberry Pi Pico W
     - Read DHT22 Sensor
     - Control LED
     - Monitor Human Motion Sensor (Microwave Radar)
-    - Auto-refresh every 10 seconds.
+    - Auto-refresh every 10 seconds
 
 Additional libraries
   https://circuitpython.org/libraries
