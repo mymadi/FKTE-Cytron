@@ -115,3 +115,14 @@ Additional Library:
 - adafruit_io
 - adafruit_minimqtt
 - adafruit_register
+
+## Project 8
+<p><b>Smart Home Monitoring System - HTTP Server dashboard</b></p>
+Component Required:
+
+1. DHT22 Module
+2. Vibration Module or Microwave Radar - Human motion Sensor
+3. LED
+
+Additional Library:
+- adafruit_dht.mpy
