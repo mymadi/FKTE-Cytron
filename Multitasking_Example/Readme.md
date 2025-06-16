@@ -30,7 +30,11 @@ This project utilizes **pyRTOS**, a Real-Time Operating System (RTOS) written en
 * **Naming Conventions:** `pyRTOS` uses its own set of naming conventions.
 * **Built-in Message Passing:** `pyRTOS` includes built-in mechanisms for inter-task message passing, facilitating communication between different concurrent tasks.
 
+<hr></hr>
+
 ## Reference
 
 1.  **FreeRTOS:** [https://www.freertos.org/](https://www.freertos.org/)
 2.  **pyRTOS GitHub Repository:** [https://github.com/Rybec/pyRTOS](https://github.com/Rybec/pyRTOS)
+3.  **Concurrent Tasks:** [https://learn.adafruit.com/cooperative-multitasking-in-circuitpython-with-asyncio/concurrent-tasks]
+4.  **Handling Interrupts:** [https://learn.adafruit.com/cooperative-multitasking-in-circuitpython-with-asyncio/handling-interrupts]
