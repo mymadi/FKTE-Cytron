@@ -1,6 +1,6 @@
 ---
 
-## Handling Interrupts with `countio`
+# Handling Interrupts with `countio`
 
 CircuitPython provides **`countio`**, a native module that counts rising-edge and/or falling-edge pin transitions. Internally, `countio` uses interrupts or other hardware mechanisms to catch these transitions and increment a count.
 
