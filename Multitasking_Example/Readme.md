@@ -1,3 +1,11 @@
+# Cooperative Multitasking in CircuitPython with `asyncio`
+
+## Overview
+
+This guide describes how to do cooperative multitasking in CircuitPython, using the `asyncio` library and the `async` and `await` language keywords. The `asyncio` library is included with CPython, the host-computer version of Python. MicroPython also supplies a version of `asyncio`, and that version has been adapted for use in CircuitPython.
+
+<hr></hr>
+
 # pyRTOS: A Pure Python Real-Time Operating System
 
 ## Introduction
