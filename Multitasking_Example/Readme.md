@@ -1,3 +1,13 @@
+---
+
+## Handling Interrupts with `countio`
+
+CircuitPython provides **`countio`**, a native module that counts rising-edge and/or falling-edge pin transitions. Internally, `countio` uses interrupts or other hardware mechanisms to catch these transitions and increment a count.
+
+You can use `countio` with `asyncio` to catch interrupts and do something based on that interrupt. Here is a simple example using `countio` to monitor a pin connected to a push button, which will simulate a device interrupt. Note that the `countio` value is being polled in the task.
+
+<hr></hr>
+
 # Cooperative Multitasking in CircuitPython with `asyncio`
 
 ## Overview
