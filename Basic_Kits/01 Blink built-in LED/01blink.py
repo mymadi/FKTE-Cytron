@@ -1,5 +1,5 @@
 """ 
-Example for Pi Pico W. Blink the built-in LED (board.LED)
+Example for Pi Pico W. Blink the built-in LED (board.LED).
 """
 import time
 import board
