@@ -1,5 +1,5 @@
 """
-Example for Pi Pico W. Running & Blink Light
+Example for Pi Pico W. Running & Blink LEDs
 """
 import time
 import board
