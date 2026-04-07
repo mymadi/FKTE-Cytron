@@ -1,5 +1,5 @@
 """
-Example for Pico. Blink An External LED (GP0)
+Example for Pico. Blink An External LED (GP0).
 """
 import time
 import board
