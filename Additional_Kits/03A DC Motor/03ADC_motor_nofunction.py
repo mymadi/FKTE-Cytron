@@ -10,7 +10,7 @@ in2 = digitalio.DigitalInOut(board.GP15)
 in2.direction = digitalio.Direction.OUTPUT
 
 # 2. Setup Speed Pin (ENA) - Set to 100% (65535)
-ena = pwmio.PWMOut(board.GP2, frequency=1000)
+ena = pwmio.PWMOut(board.GP13, frequency=1000)
 ena.duty_cycle = 65535 
 
 # --- CLOCKWISE ---
