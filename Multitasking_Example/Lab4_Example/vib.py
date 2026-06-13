@@ -6,10 +6,10 @@ class VibrationSensor:
         """Initializes the vibration sensor on the specified pin."""
         self.sensor = digitalio.DigitalInOut(pin)
         self.sensor.direction = digitalio.Direction.INPUT
-        # Assuming Active Low requires an internal pull-up to stay HIGH when idle
-        self.sensor.pull = digitalio.Pull.UP
+        # Active High requires an internal pull-down to stay LOW when idle
+        self.sensor.pull = digitalio.Pull.DOWN
 
     def is_vibrating(self):
-        """Returns True if vibration is detected (Active Low logic)."""
-        # Because it's active low, a False reading means it is triggered
-        return not self.sensor.value
+        """Returns True if vibration is detected (Active High logic)."""
+        # Because it's active high, a True reading means it is triggered
+        return self.sensor.value
