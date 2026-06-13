@@ -33,7 +33,7 @@ from vib import VibrationSensor
 # --- Global Variables for Inter-Task Comm ---
 # ==========================================
 vib_status = False  # Stores the current state of the vibration sensor
-btn_status = False  # Stores the current state of the push button
+btn_status = True   # Stores the current state of the push button
 
 # ==========================================
 # --- Hardware Initialization ---
@@ -64,7 +64,7 @@ def vibration_task(self):
         vib_status = vib_sensor.is_vibrating()
         
         # Instantly toggle the LED based on the status
-        if vib_status:
+        if vib_status == True:
             led_gp0.value = True
         else:
             led_gp0.value = False
@@ -82,10 +82,10 @@ def button_task(self):
 
     while True:
         # Update the global variable (Active Low logic)
-        btn_status = not btn_gp21.value 
+        btn_status = btn_gp21.value 
         
         # Instantly toggle the LED based on the status
-        if btn_status:
+        if btn_status == False:
             led_gp1.value = True      
         else:
             led_gp1.value = False     
@@ -101,8 +101,8 @@ def temp_task(self):
         temp_c = microcontroller.cpu.temperature
         
         # Format the global statuses into readable text
-        v_text = "DETECTED" if vib_status else "Clear"
-        b_text = "PRESSED" if btn_status else "Released"
+        v_text = "DETECTED" if vib_status == True else "Clear"
+        b_text = "PRESSED" if btn_status == False else "Released"
         
         # Print everything cleanly on a single line
         print(f"Temp: {temp_c:.2f} °C | Vibration: {v_text} | Button: {b_text}")
