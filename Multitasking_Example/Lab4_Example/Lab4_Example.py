@@ -10,11 +10,11 @@ Description:
 This script demonstrates cooperative multitasking using the pyRTOS 
 library alongside inter-task communication via global variables. 
 It features three concurrent tasks:
-1) Monitoring a vibration sensor (via a custom OOP module on GP22), 
-   toggling an LED (GP0), and updating a global status variable.
+1) Monitoring an Active High vibration sensor (via a custom OOP module 
+   on GP22), toggling an LED (GP0), and updating a global status variable.
 2) Polling the internal microcontroller CPU temperature and printing
    a combined status dashboard (Temp, Vibration, Button) every 2 seconds.
-3) Monitoring a push button (GP21), toggling an LED (GP1), and 
+3) Monitoring an Active Low push button (GP21), toggling an LED (GP1), and 
    updating a global status variable.
 
 Libraries:
@@ -60,7 +60,7 @@ def vibration_task(self):
     yield 
 
     while True:
-        # Update the global variable
+        # Update the global variable (Active High logic handled securely in vib.py)
         vib_status = vib_sensor.is_vibrating()
         
         # Instantly toggle the LED based on the status
